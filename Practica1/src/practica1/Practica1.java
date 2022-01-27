@@ -22,6 +22,7 @@ public class Practica1 {
         Practica1_peticion_datos.fechanac(); //solicita al usuario su fecha de nacimiento
         Practica1_peticion_datos.dni(); //solicita el dni sin letra al usuario
         Practica1_usuarios.usuario(); //pide el nombre y los apellidos al usuario para crear un usuario
+        System.out.print("Estoy cambiandolo para ver en git");
        
 ////====================METODOS MECANICOS====================
         System.out.println("Contraseña tipo 1: ");
